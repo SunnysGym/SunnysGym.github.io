@@ -22,7 +22,7 @@ Sunny's Gym is a light weight, completely static website. This site is deployabl
 If you want to contribute, just make a pull request please!! :D
 
 ## Credits
-* [SunnyTheDog](https://discord.com/users/791783191639228426/) - Owner, Project Leader
+* [SunnyTheDog](https://github.com/sunnythedog2020) - Owner, Project Leader
 * [szvy](https://github.com/szvy) - Lead/Main Developer
 * [Void Network](https://void.radio.am) - Discord Help
 
