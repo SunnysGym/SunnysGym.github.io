@@ -1,0 +1,39 @@
+[
+    {
+      "img": "30.png",
+      "link": "https://thirtydollar.website"
+    },
+    {
+      "img": "youtube.png",
+      "link": "https://www.youtube.com"
+    },
+    {
+      "img": "insta.png",
+      "link": "https://www.instagram.com"
+    },
+    {
+        "img": "tiktok.png",
+        "link": "https://tiktok.com/"
+      },
+      {
+        "img": "xbox.png",
+        "link": "https://www.xbox.com/en-us/play"
+      },
+      {
+        "img": "android.png",
+        "link": "https://appetize.io/embed/b_vedi2qzapdi6b3feobso6vyrvi"
+      },
+      {
+        "img": "discord.png",
+        "link": "https://discord.com"
+      },
+      {
+        "img": "geforce.png",
+        "link": "https://play.geforcenow.com/mall/"
+      },
+      {
+        "img": "x.png",
+        "link": "https://x.com"
+      }
+  ]
+  

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sunny's Gym - Settings</title>
+  <link rel="stylesheet" href="/assets/css/styles.css">
+  <link rel="icon" href="/assets/img/brand/favicon.ico" id="favicon">
+</head>
+<body>
+  <main class="main-container">
+    <nav class="glass-navbar">
+      <div class="logo">
+        <a href="#">Sunny's Gym</a>
+      </div>
+      <ul class="nav-links">
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/p/g.html">Games</a></li>
+        <li><a href="/p/a.html">Apps</a></li>
+        <li><a href="/p/m.html">Movies</a></li>
+        <li><a href="/p/e.html">Extra</a></li>
+        <li><a href="/p/d.html">Our Discord</a></li>
+      </ul>
+    </nav>
+    <h1 style="margin-top: 5%;">Settings</h1>
+    <div id="roddyusedtoberichbox" style="width: 90%;">
+
+      <div class="settings-section">
+        <h2>Tab Cloak</h2>
+        <label for="favicon-selector">Choose an Option:</label>
+        <select id="favicon-selector">
+          <option value="default">None (default)</option>
+          <option value="canvas">Canvas</option>
+          <option value="google">Google</option>
+          <option value="google drive">Google Drive</option>
+          <option value="gmail">Gmail</option>
+          <option value="outlook">Outlook</option>
+        </select>
+      </div>
+
+      <div class="settings-section">
+        <h2>Panic Key</h2>
+        <input type="text" id="panic-url" placeholder="Enter Panic URL">
+        <button id="set-panic-key">Set Panic Key</button>
+      </div>
+
+      <div class="settings-section">
+        <h2>About:Blank</h2>
+        <button id="abcloak">Open in About:Blank</button>
+      </div>
+
+    </div>
+    <div class="desc left-margin">
+      <p id="uv-error"></p>
+      <pre id="uv-error-code"></pre>
+    </div>
+  </main>
+  <script src="uv/uv.bundle.js" defer></script>
+  <script src="uv/uv.config.js" defer></script>
+  <script src="register-sw.js" defer></script>
+  <script src="search.js" defer></script>
+  <script src="index.js" defer></script>
+  <script src="/assets/js/settings.js" defer></script>
+</body>
+</html>

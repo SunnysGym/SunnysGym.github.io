@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sunny's Gym - Games</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="/assets/js/games.js" defer></script>
+    <script src="/assets/js/usesettings.js" defer></script>
+  </head>
+  <body>
+    <main class="main-container">
+        <nav class="glass-navbar">
+            <div class="logo">
+                <a href="#">Sunny's Gym</a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/p/g.html">Games</a></li>
+                <li><a href="/p/a.html">Apps</a></li>
+                <li><a href="/p/m.html">Movies</a></li>
+                <li><a href="/p/e.html">Extra</a></li>
+                <li><a href="/p/d.html">Our Discord</a></li>
+            </ul>
+        </nav>
+      <h1 style="margin-top: 5%;">Games</h1>
+      <div id="roddyusedtoberichbox" style="width: 90%;">
+        <!-- games are loaded here -->
+      </div>
+      <div class="desc left-margin">
+        <p id="uv-error"></p>
+        <pre id="uv-error-code"></pre>
+      </div>
+    </main>
+    <script src="uv/uv.bundle.js" defer></script>
+    <script src="uv/uv.config.js" defer></script>
+    <script src="register-sw.js" defer></script>
+    <script src="search.js" defer></script>
+    <script src="index.js" defer></script>
+  </body>
+</html>

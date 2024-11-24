@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sunny's Gym</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <main class="main-container">
+      <h1>Sunny's Gym</h1>
+      <form id="uv-form">
+        <input id="uv-search-engine" value="https://www.google.com/search?q=%s" type="hidden" />
+        <input id="uv-address" type="text" placeholder="Search the internet or type a URL" class="form__input" />
+      </form>
+      <div id="roddyusedtoberichbox">
+        <h2>Popular Games</h2>
+        <a href="/frame.html?url=https://selenite.cc/semag/1v1lol/index.html" target="_blank"><img src="/assets/img/game/1v1s.png" id="game" /></a>
+        <a href="/frame.html?url=https://ngg.frogiee.one/?ng_ifp_partner=skool" target="_blank"><img src="/assets/img/game/roblox.png" id="game" /></a>
+        <a href="/frame.html?url=https://eaglercraft.com/mc/1.8.8/" target="_blank"><img src="/assets/img/game/mc.png" id="game" /></a>
+      </div>
+      <div class="desc left-margin">
+        <p id="uv-error"></p>
+        <pre id="uv-error-code"></pre>
+      </div>
+    </main>
+    <script src="uv/uv.bundle.js" defer></script>
+    <script src="uv/uv.config.js" defer></script>
+    <script src="register-sw.js" defer></script>
+    <script src="search.js" defer></script>
+    <script src="index.js" defer></script>
+  </body>
+</html>
