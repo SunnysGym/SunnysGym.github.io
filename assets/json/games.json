@@ -134,6 +134,73 @@
     {
         "img": "ucn.png",
         "link": "https://frogiesarcade.win/compiled/ucn/index.html"
+      },
+      {
+        "img": "buckshot.png",
+        "link": "https://lupinevault.com/games/files/buckshot-roulette/index.html"
+      },
+      {
+        "img": "osu.png",
+        "link": "https://selenite.cc/semag/osu/index.html"
+      },
+      {
+        "img": "vex.png",
+        "link": "https://ixl.brunys.site/assets/games/vex/"
+      },
+      {
+        "img": "vex2.png",
+        "link": "https://ixl.brunys.site/assets/games/vex2/"
+      },
+      {
+        "img": "vex3.png",
+        "link": "https://ixl.brunys.site/assets/games/vex3/"
+      },
+      {
+        "img": "vex4.png",
+        "link": "https://ixl.brunys.site/assets/games/vex4/"
+      },
+      {
+        "img": "vex5.png",
+        "link": "https://ixl.brunys.site/assets/games/vex5/"
+      },
+      {
+        "img": "vex6.png",
+        "link": "https://ixl.brunys.site/assets/games/vex6/"
+      },
+      {
+        "img": "vex7.png",
+        "link": "https://ixl.brunys.site/assets/games/vex7/"
+      },
+      {
+        "img": "vex8.png",
+        "link": "https://ixl.brunys.site/assets/games/vex/"
+      },
+      {
+        "img": "skibiditoilet.png",
+        "link": " https://html5.gamedistribution.com/4d78b32a56d6422aa958e762e2fbec3e/?gd_sdk_referrer_url=https%3A%2F%2Fwww.1001games.com%2Faction%2Fyou-vs-100-skibidi-toilets"
+      },
+      {
+        "img": "adanceoffire.png",
+        "link": "https://ixl.brunys.site/assets/games/adofai/"
+      },
+      {
+        "img": "funnyshooter1.png",
+        "link": "https://selenite.cc/semag/funnyshooter/index.html"
+      },
+      {
+        "img": "funnyshooter2.png",
+        "link": "https://selenite.cc/semag/funnyshooter2/index.html"
+      },
+      {
+        "img": "gunmayhem.png",
+        "link": "https://selenite.cc/semag/gunmayhem/index.html"
+      },
+      {
+        "img": "gunmayhem2.png",
+        "link": "https://selenite.cc/semag/gunmayhem2/index.html"
+      },
+      {
+        "img": "slope2.png",
+        "link": "https://ixl.brunys.site/assets/games/slope2/"
       }
   ]
-  
