@@ -1124,10 +1124,6 @@
     "link": "https://lupinevault.com/games/files/slice-of-sasha/index.html"
   },
   {
-    "img": "smash-karts.png",
-    "link": "https://lupinevault.com/games/files/smash-karts/index.html"
-  },
-  {
     "img": "smokin-barrels.png",
     "link": "https://lupinevault.com/games/files/smokin-barrels/index.html"
   },
@@ -1649,7 +1645,7 @@
       },
       {
         "img": "buckshot.png",
-        "link": "https://frogiesarcade.win/compiled/buckshot-roulette/"
+        "link": "https://lupinevault.com/games/files/buckshot-roulette/index.html"
       },
       {
         "img": "osu.png",
@@ -1714,5 +1710,9 @@
       {
         "img": "slope2.png",
         "link": "https://ixl.brunys.site/assets/games/slope2/"
+      },
+      {
+        "img": "smash-karts.png",
+        "link": "https://smashkarts.io/index.html"
       }
   ]
