@@ -1,5 +1,1513 @@
 [
-    {
+  {
+    "img": "0hh1.png",
+    "link": "https://lupinevault.com/games/files/0hh1/index.html"
+  },
+  {
+    "img": "0hn0.png",
+    "link": "https://lupinevault.com/games/files/0hn0/index.html"
+  },
+  {
+    "img": "1.png",
+    "link": "https://lupinevault.com/games/files/1/index.html"
+  },
+  {
+    "img": "10-minutes-till-dawn.png",
+    "link": "https://lupinevault.com/games/files/10-minutes-till-dawn/index.html"
+  },
+  {
+    "img": "100-player-pong.png",
+    "link": "https://lupinevault.com/games/files/100-player-pong/index.html"
+  },
+  {
+    "img": "2020-game.png",
+    "link": "https://lupinevault.com/games/files/2020-game/index.html"
+  },
+  {
+    "img": "2048.png",
+    "link": "https://lupinevault.com/games/files/2048/index.html"
+  },
+  {
+    "img": "2048-multitask.png",
+    "link": "https://lupinevault.com/games/files/2048-multitask/index.html"
+  },
+  {
+    "img": "8ball-billiards-classic.png",
+    "link": "https://lupinevault.com/games/files/8ball-billiards-classic/index.html"
+  },
+  {
+    "img": "9007199254740992.png",
+    "link": "https://lupinevault.com/games/files/9007199254740992/index.html"
+  },
+  {
+    "img": "a-dark-room.png",
+    "link": "https://lupinevault.com/games/files/a-dark-room/index.html"
+  },
+  {
+    "img": "a-difficult-game-about-climbing.png",
+    "link": "https://lupinevault.com/games/files/a-difficult-game-about-climbing/index.html"
+  },
+  {
+    "img": "achievement-unlocked.png",
+    "link": "https://lupinevault.com/games/files/achievement-unlocked/index.html"
+  },
+  {
+    "img": "age-of-war.png",
+    "link": "https://lupinevault.com/games/files/age-of-war/index.html"
+  },
+  {
+    "img": "alien-hominid.png",
+    "link": "https://lupinevault.com/games/files/alien-hominid/index.html"
+  },
+  {
+    "img": "alien-invaders-io.png",
+    "link": "https://lupinevault.com/games/files/alien-invaders-io/index.html"
+  },
+  {
+    "img": "align-4.png",
+    "link": "https://lupinevault.com/games/files/align-4/index.html"
+  },
+  {
+    "img": "among-us.png",
+    "link": "https://lupinevault.com/games/files/among-us/index.html"
+  },
+  {
+    "img": "angry-birds.png",
+    "link": "https://lupinevault.com/games/files/angry-birds/index.html"
+  },
+  {
+    "img": "anti-terrorist-rush.png",
+    "link": "https://lupinevault.com/games/files/anti-terrorist-rush/index.html"
+  },
+  {
+    "img": "arcade-wizard.png",
+    "link": "https://lupinevault.com/games/files/arcade-wizard/index.html"
+  },
+  {
+    "img": "ascii-space.png",
+    "link": "https://lupinevault.com/games/files/ascii-space/index.html"
+  },
+  {
+    "img": "aspiring-artist.png",
+    "link": "https://lupinevault.com/games/files/aspiring-artist/index.html"
+  },
+  {
+    "img": "asteroids.png",
+    "link": "https://lupinevault.com/games/files/asteroids/index.html"
+  },
+  {
+    "img": "astray.png",
+    "link": "https://lupinevault.com/games/files/astray/index.html"
+  },
+  {
+    "img": "avalanche.png",
+    "link": "https://lupinevault.com/games/files/avalanche/index.html"
+  },
+  {
+    "img": "awesome-tanks-2.png",
+    "link": "https://lupinevault.com/games/files/awesome-tanks-2/index.html"
+  },
+  {
+    "img": "back-country.png",
+    "link": "https://lupinevault.com/games/files/back-country/index.html"
+  },
+  {
+    "img": "backflip-dive-3d.png",
+    "link": "https://lupinevault.com/games/files/backflip-dive-3d/index.html"
+  },
+  {
+    "img": "backrooms.png",
+    "link": "https://lupinevault.com/games/files/backrooms/index.html"
+  },
+  {
+    "img": "bad-ice-cream.png",
+    "link": "https://lupinevault.com/games/files/bad-ice-cream/index.html"
+  },
+  {
+    "img": "bad-ice-cream-2.png",
+    "link": "https://lupinevault.com/games/files/bad-ice-cream-2/index.html"
+  },
+  {
+    "img": "bad-ice-cream-3.png",
+    "link": "https://lupinevault.com/games/files/bad-ice-cream-3/index.html"
+  },
+  {
+    "img": "basket-bros-io.png",
+    "link": "https://lupinevault.com/games/files/basket-bros-io/index.html"
+  },
+  {
+    "img": "basketball-io.png",
+    "link": "https://lupinevault.com/games/files/basketball-io/index.html"
+  },
+  {
+    "img": "battle-for-gondor.png",
+    "link": "https://lupinevault.com/games/files/battle-for-gondor/index.html"
+  },
+  {
+    "img": "big-ice-tower-tiny-square.png",
+    "link": "https://lupinevault.com/games/files/big-ice-tower-tiny-square/index.html"
+  },
+  {
+    "img": "big-neon-tower-tiny-square.png",
+    "link": "https://lupinevault.com/games/files/big-neon-tower-tiny-square/index.html"
+  },
+  {
+    "img": "big-red-button.png",
+    "link": "https://lupinevault.com/games/files/big-red-button/index.html"
+  },
+  {
+    "img": "big-tower-tiny-square.png",
+    "link": "https://lupinevault.com/games/files/big-tower-tiny-square/index.html"
+  },
+  {
+    "img": "binding-of-isaac.png",
+    "link": "https://lupinevault.com/games/files/binding-of-isaac/index.html"
+  },
+  {
+    "img": "black-hole-square.png",
+    "link": "https://lupinevault.com/games/files/black-hole-square/index.html"
+  },
+  {
+    "img": "black-knight.png",
+    "link": "https://lupinevault.com/games/files/black-knight/index.html"
+  },
+  {
+    "img": "blocky-snakes.png",
+    "link": "https://lupinevault.com/games/files/blocky-snakes/index.html"
+  },
+  {
+    "img": "bloons-td.png",
+    "link": "https://lupinevault.com/games/files/bloons-td/index.html"
+  },
+  {
+    "img": "bloons-td-2.png",
+    "link": "https://lupinevault.com/games/files/bloons-td-2/index.html"
+  },
+  {
+    "img": "bloons-td-4.png",
+    "link": "https://lupinevault.com/games/files/bloons-td-4/index.html"
+  },
+  {
+    "img": "bloxorz.png",
+    "link": "https://lupinevault.com/games/files/bloxorz/index.html"
+  },
+  {
+    "img": "bounce-back.png",
+    "link": "https://lupinevault.com/games/files/bounce-back/index.html"
+  },
+  {
+    "img": "boxel-rebound.png",
+    "link": "https://lupinevault.com/games/files/boxel-rebound/index.html"
+  },
+  {
+    "img": "boxhead2play.png",
+    "link": "https://lupinevault.com/games/files/boxhead2play/index.html"
+  },
+  {
+    "img": "brave-explorers.png",
+    "link": "https://lupinevault.com/games/files/brave-explorers/index.html"
+  },
+  {
+    "img": "breaklock.png",
+    "link": "https://lupinevault.com/games/files/breaklock/index.html"
+  },
+  {
+    "img": "breakout.png",
+    "link": "https://lupinevault.com/games/files/breakout/index.html"
+  },
+  {
+    "img": "burnin-rubber-5XS.png",
+    "link": "https://lupinevault.com/games/files/burnin-rubber-5XS/index.html"
+  },
+  {
+    "img": "burning-man-2.png",
+    "link": "https://lupinevault.com/games/files/burning-man-2/index.html"
+  },
+  {
+    "img": "majoras-mask.png",
+    "link": "https://lupinevault.com/games/files/majoras-mask/index.html"
+  },
+  {
+    "img": "burnout-drift-3.png",
+    "link": "https://lupinevault.com/games/files/burnout-drift-3/index.html"
+  },
+  {
+    "img": "cannon-basketball-4.png",
+    "link": "https://lupinevault.com/games/files/cannon-basketball-4/index.html"
+  },
+  {
+    "img": "canyon-defense.png",
+    "link": "https://lupinevault.com/games/files/canyon-defense/index.html"
+  },
+  {
+    "img": "captain-callisto.png",
+    "link": "https://lupinevault.com/games/files/captain-callisto/index.html"
+  },
+  {
+    "img": "cars-simulator.png",
+    "link": "https://lupinevault.com/games/files/cars-simulator/index.html"
+  },
+  {
+    "img": "cell-machine.png",
+    "link": "https://lupinevault.com/games/files/cell-machine/index.html"
+  },
+  {
+    "img": "champion-archer.png",
+    "link": "https://lupinevault.com/games/files/champion-archer/index.html"
+  },
+  {
+    "img": "chess.png",
+    "link": "https://lupinevault.com/games/files/chess/index.html"
+  },
+  {
+    "img": "chill-radio.png",
+    "link": "https://lupinevault.com/games/files/chill-radio/index.html"
+  },
+  {
+    "img": "chroma-incident.png",
+    "link": "https://lupinevault.com/games/files/chroma-incident/index.html"
+  },
+  {
+    "img": "chrome-dino.png",
+    "link": "https://lupinevault.com/games/files/chrome-dino/index.html"
+  },
+  {
+    "img": "circlo.png",
+    "link": "https://lupinevault.com/games/files/circlo/index.html"
+  },
+  {
+    "img": "city-blocks-2.png",
+    "link": "https://lupinevault.com/games/files/city-blocks-2/index.html"
+  },
+  {
+    "img": "clean-up-io.png",
+    "link": "https://lupinevault.com/games/files/clean-up-io/index.html"
+  },
+  {
+    "img": "cluster-rush.png",
+    "link": "https://lupinevault.com/games/files/cluster-rush/index.html"
+  },
+  {
+    "img": "color-switch-2-challenges.png",
+    "link": "https://lupinevault.com/games/files/color-switch-2-challenges/index.html"
+  },
+  {
+    "img": "connect3.png",
+    "link": "https://lupinevault.com/games/files/connect3/index.html"
+  },
+  {
+    "img": "contra-3.png",
+    "link": "https://lupinevault.com/games/files/contra-3/index.html"
+  },
+  {
+    "img": "core-ball.png",
+    "link": "https://lupinevault.com/games/files/core-ball/index.html"
+  },
+  {
+    "img": "craftmine.png",
+    "link": "https://lupinevault.com/games/files/craftmine/index.html"
+  },
+  {
+    "img": "creative-kill-chamber.png",
+    "link": "https://lupinevault.com/games/files/creative-kill-chamber/index.html"
+  },
+  {
+    "img": "crossy-road.png",
+    "link": "https://lupinevault.com/games/files/crossy-road/index.html"
+  },
+  {
+    "img": "crowd-city-2.png",
+    "link": "https://lupinevault.com/games/files/crowd-city-2/index.html"
+  },
+  {
+    "img": "csgo-clicker.png",
+    "link": "https://lupinevault.com/games/files/csgo-clicker/index.html"
+  },
+  {
+    "img": "cubefield.png",
+    "link": "https://lupinevault.com/games/files/cubefield/index.html"
+  },
+  {
+    "img": "cupcake-2048.png",
+    "link": "https://lupinevault.com/games/files/cupcake-2048/index.html"
+  },
+  {
+    "img": "cut-the-rope.png",
+    "link": "https://lupinevault.com/games/files/cut-the-rope/index.html"
+  },
+  {
+    "img": "cut-the-rope-holiday.png",
+    "link": "https://lupinevault.com/games/files/cut-the-rope-holiday/index.html"
+  },
+  {
+    "img": "cut-the-rope-time-travel.png",
+    "link": "https://lupinevault.com/games/files/cut-the-rope-time-travel/index.html"
+  },
+  {
+    "img": "dadish.png",
+    "link": "https://lupinevault.com/games/files/dadish/index.html"
+  },
+  {
+    "img": "dadish-2.png",
+    "link": "https://lupinevault.com/games/files/dadish-2/index.html"
+  },
+  {
+    "img": "dadish-3.png",
+    "link": "https://lupinevault.com/games/files/dadish-3/index.html"
+  },
+  {
+    "img": "dante.png",
+    "link": "https://lupinevault.com/games/files/dante/index.html"
+  },
+  {
+    "img": "deal-or-no-deal.png",
+    "link": "https://lupinevault.com/games/files/deal-or-no-deal/index.html"
+  },
+  {
+    "img": "death-run-3d.png",
+    "link": "https://lupinevault.com/games/files/death-run-3d/index.html"
+  },
+  {
+    "img": "death-soul.png",
+    "link": "https://lupinevault.com/games/files/death-soul/index.html"
+  },
+  {
+    "img": "defend-the-tank.png",
+    "link": "https://lupinevault.com/games/files/defend-the-tank/index.html"
+  },
+  {
+    "img": "doctor-acorn-2.png",
+    "link": "https://lupinevault.com/games/files/doctor-acorn-2/index.html"
+  },
+  {
+    "img": "dodge.png",
+    "link": "https://lupinevault.com/games/files/dodge/index.html"
+  },
+  {
+    "img": "doge-2048.png",
+    "link": "https://lupinevault.com/games/files/doge-2048/index.html"
+  },
+  {
+    "img": "doge-miner.png",
+    "link": "https://lupinevault.com/games/files/doge-miner/index.html"
+  },
+  {
+    "img": "doge-miner-2.png",
+    "link": "https://lupinevault.com/games/files/doge-miner-2/index.html"
+  },
+  {
+    "img": "dont-drop-the-white-ball-2.png",
+    "link": "https://lupinevault.com/games/files/dont-drop-the-white-ball-2/index.html"
+  },
+  {
+    "img": "doodle-jump.png",
+    "link": "https://lupinevault.com/games/files/doodle-jump/index.html"
+  },
+  {
+    "img": "doom.png",
+    "link": "https://lupinevault.com/games/files/doom/index.html"
+  },
+  {
+    "img": "douchebag-workout-2.png",
+    "link": "https://lupinevault.com/games/files/douchebag-workout-2/index.html"
+  },
+  {
+    "img": "dragon-vs-bricks.png",
+    "link": "https://lupinevault.com/games/files/dragon-vs-bricks/index.html"
+  },
+  {
+    "img": "draw-the-hill.png",
+    "link": "https://lupinevault.com/games/files/draw-the-hill/index.html"
+  },
+  {
+    "img": "drift-boss.png",
+    "link": "https://lupinevault.com/games/files/drift-boss/index.html"
+  },
+  {
+    "img": "drift-hunters.png",
+    "link": "https://lupinevault.com/games/files/drift-hunters/index.html"
+  },
+  {
+    "img": "duck-life-1.png",
+    "link": "https://lupinevault.com/games/files/duck-life-1/index.html"
+  },
+  {
+    "img": "duck-life-2.png",
+    "link": "https://lupinevault.com/games/files/duck-life-2/index.html"
+  },
+  {
+    "img": "duck-life-3.png",
+    "link": "https://lupinevault.com/games/files/duck-life-3/index.html"
+  },
+  {
+    "img": "duck-life-4.png",
+    "link": "https://lupinevault.com/games/files/duck-life-4/index.html"
+  },
+  {
+    "img": "duck-life-treasure-hunt.png",
+    "link": "https://lupinevault.com/games/files/duck-life-treasure-hunt/index.html"
+  },
+  {
+    "img": "duke-dashington-remastered.png",
+    "link": "https://lupinevault.com/games/files/duke-dashington-remastered/index.html"
+  },
+  {
+    "img": "edge-not-found.png",
+    "link": "https://lupinevault.com/games/files/edge-not-found/index.html"
+  },
+  {
+    "img": "edge-surf.png",
+    "link": "https://lupinevault.com/games/files/edge-surf/index.html"
+  },
+  {
+    "img": "elastic-man.png",
+    "link": "https://lupinevault.com/games/files/elastic-man/index.html"
+  },
+  {
+    "img": "endless-war-3.png",
+    "link": "https://lupinevault.com/games/files/endless-war-3/index.html"
+  },
+  {
+    "img": "escaping-the-prison.png",
+    "link": "https://lupinevault.com/games/files/escaping-the-prison/index.html"
+  },
+  {
+    "img": "evil-glitch.png",
+    "link": "https://lupinevault.com/games/files/evil-glitch/index.html"
+  },
+  {
+    "img": "evolution.png",
+    "link": "https://lupinevault.com/games/files/evolution/index.html"
+  },
+  {
+    "img": "exo.png",
+    "link": "https://lupinevault.com/games/files/exo/index.html"
+  },
+  {
+    "img": "factory-balls.png",
+    "link": "https://lupinevault.com/games/files/factory-balls/index.html"
+  },
+  {
+    "img": "factory-balls-forever.png",
+    "link": "https://lupinevault.com/games/files/factory-balls-forever/index.html"
+  },
+  {
+    "img": "fancy-pants-adventures.png",
+    "link": "https://lupinevault.com/games/files/fancy-pants-adventures/index.html"
+  },
+  {
+    "img": "finns-fantastic-food-machine.png",
+    "link": "https://lupinevault.com/games/files/finns-fantastic-food-machine/index.html"
+  },
+  {
+    "img": "fireboy-and-watergirl.png",
+    "link": "https://lupinevault.com/games/files/fireboy-and-watergirl/index.html"
+  },
+  {
+    "img": "flappy-2048.png",
+    "link": "https://lupinevault.com/games/files/flappy-2048/index.html"
+  },
+  {
+    "img": "flappy-defense.png",
+    "link": "https://lupinevault.com/games/files/flappy-defense/index.html"
+  },
+  {
+    "img": "flash-tetris.png",
+    "link": "https://lupinevault.com/games/files/flash-tetris/index.html"
+  },
+  {
+    "img": "flippy-fish.png",
+    "link": "https://lupinevault.com/games/files/flippy-fish/index.html"
+  },
+  {
+    "img": "flood-runner-2.png",
+    "link": "https://lupinevault.com/games/files/flood-runner-2/index.html"
+  },
+  {
+    "img": "friday-night-funkin.png",
+    "link": "https://lupinevault.com/games/files/friday-night-funkin/index.html"
+  },
+  {
+    "img": "friendly-fire.png",
+    "link": "https://lupinevault.com/games/files/friendly-fire/index.html"
+  },
+  {
+    "img": "froggys-battle.png",
+    "link": "https://lupinevault.com/games/files/froggys-battle/index.html"
+  },
+  {
+    "img": "frying-nemo.png",
+    "link": "https://lupinevault.com/games/files/frying-nemo/index.html"
+  },
+  {
+    "img": "game-inside-a-game.png",
+    "link": "https://lupinevault.com/games/files/game-inside-a-game/index.html"
+  },
+  {
+    "img": "generic-fishing-game.png",
+    "link": "https://lupinevault.com/games/files/generic-fishing-game/index.html"
+  },
+  {
+    "img": "george-and-the-printer.png",
+    "link": "https://lupinevault.com/games/files/george-and-the-printer/index.html"
+  },
+  {
+    "img": "pdftris.png",
+    "link": "https://lupinevault.com/games/files/pdftris/index.html"
+  },
+  {
+    "img": "getaway-shootout.png",
+    "link": "https://lupinevault.com/games/files/getaway-shootout/index.html"
+  },
+  {
+    "img": "getting-over-it.png",
+    "link": "https://lupinevault.com/games/files/getting-over-it/index.html"
+  },
+  {
+    "img": "gimme-the-airpod.png",
+    "link": "https://lupinevault.com/games/files/gimme-the-airpod/index.html"
+  },
+  {
+    "img": "glass-city.png",
+    "link": "https://lupinevault.com/games/files/glass-city/index.html"
+  },
+  {
+    "img": "go-ball.png",
+    "link": "https://lupinevault.com/games/files/go-ball/index.html"
+  },
+  {
+    "img": "golf.png",
+    "link": "https://lupinevault.com/games/files/golf/index.html"
+  },
+  {
+    "img": "goodnight.png",
+    "link": "https://lupinevault.com/games/files/goodnight/index.html"
+  },
+  {
+    "img": "google-snake.png",
+    "link": "https://lupinevault.com/games/files/google-snake/index.html"
+  },
+  {
+    "img": "google-solitaire.png",
+    "link": "https://lupinevault.com/games/files/google-solitaire/index.html"
+  },
+  {
+    "img": "gravity-soccer.png",
+    "link": "https://lupinevault.com/games/files/gravity-soccer/index.html"
+  },
+  {
+    "img": "grand-theft-auto.png",
+    "link": "https://lupinevault.com/games/files/grand-theft-auto/index.html"
+  },
+  {
+    "img": "green.png",
+    "link": "https://lupinevault.com/games/files/green/index.html"
+  },
+  {
+    "img": "grey-box-testing.png",
+    "link": "https://lupinevault.com/games/files/grey-box-testing/index.html"
+  },
+  {
+    "img": "grindcraft.png",
+    "link": "https://lupinevault.com/games/files/grindcraft/index.html"
+  },
+  {
+    "img": "grow-in-the-hole.png",
+    "link": "https://lupinevault.com/games/files/grow-in-the-hole/index.html"
+  },
+  {
+    "img": "gun-spin.png",
+    "link": "https://lupinevault.com/games/files/gun-spin/index.html"
+  },
+  {
+    "img": "hacker-typer.png",
+    "link": "https://lupinevault.com/games/files/hacker-typer/index.html"
+  },
+  {
+    "img": "happy-hop.png",
+    "link": "https://lupinevault.com/games/files/happy-hop/index.html"
+  },
+  {
+    "img": "happy-wheels.png",
+    "link": "https://lupinevault.com/games/files/happy-wheels/index.html"
+  },
+  {
+    "img": "helicopter.png",
+    "link": "https://lupinevault.com/games/files/helicopter/index.html"
+  },
+  {
+    "img": "helios.png",
+    "link": "https://lupinevault.com/games/files/helios/index.html"
+  },
+  {
+    "img": "hex-empire.png",
+    "link": "https://lupinevault.com/games/files/hex-empire/index.html"
+  },
+  {
+    "img": "hexgl.png",
+    "link": "https://lupinevault.com/games/files/hexgl/index.html"
+  },
+  {
+    "img": "hextris.png",
+    "link": "https://lupinevault.com/games/files/hextris/index.html"
+  },
+  {
+    "img": "holonomy.png",
+    "link": "https://lupinevault.com/games/files/holonomy/index.html"
+  },
+  {
+    "img": "house-of-hazards.png",
+    "link": "https://lupinevault.com/games/files/house-of-hazards/index.html"
+  },
+  {
+    "img": "hover-bot-arena.png",
+    "link": "https://lupinevault.com/games/files/hover-bot-arena/index.html"
+  },
+  {
+    "img": "icy-purple-head-2.png",
+    "link": "https://lupinevault.com/games/files/icy-purple-head-2/index.html"
+  },
+  {
+    "img": "idle-breakout.png",
+    "link": "https://lupinevault.com/games/files/idle-breakout/index.html"
+  },
+  {
+    "img": "idle-mining-empire.png",
+    "link": "https://lupinevault.com/games/files/idle-mining-empire/index.html"
+  },
+  {
+    "img": "idle-shark.png",
+    "link": "https://lupinevault.com/games/files/idle-shark/index.html"
+  },
+  {
+    "img": "incremancer.png",
+    "link": "https://lupinevault.com/games/files/incremancer/index.html"
+  },
+  {
+    "img": "interactive-buddy.png",
+    "link": "https://lupinevault.com/games/files/interactive-buddy/index.html"
+  },
+  {
+    "img": "jelly-truck.png",
+    "link": "https://lupinevault.com/games/files/jelly-truck/index.html"
+  },
+  {
+    "img": "jimothy-piggerton.png",
+    "link": "https://lupinevault.com/games/files/jimothy-piggerton/index.html"
+  },
+  {
+    "img": "just-one-boss.png",
+    "link": "https://lupinevault.com/games/files/just-one-boss/index.html"
+  },
+  {
+    "img": "justfall-lol.png",
+    "link": "https://lupinevault.com/games/files/justfall-lol/index.html"
+  },
+  {
+    "img": "kart-fight-io.png",
+    "link": "https://lupinevault.com/games/files/kart-fight-io/index.html"
+  },
+  {
+    "img": "kitchen-gun-game.png",
+    "link": "https://lupinevault.com/games/files/kitchen-gun-game/index.html"
+  },
+  {
+    "img": "kitten-cannon.png",
+    "link": "https://lupinevault.com/games/files/kitten-cannon/index.html"
+  },
+  {
+    "img": "klocki.png",
+    "link": "https://lupinevault.com/games/files/klocki/index.html"
+  },
+  {
+    "img": "konnekt.png",
+    "link": "https://lupinevault.com/games/files/konnekt/index.html"
+  },
+  {
+    "img": "learn-to-fly.png",
+    "link": "https://lupinevault.com/games/files/learn-to-fly/index.html"
+  },
+  {
+    "img": "learn-to-fly-2.png",
+    "link": "https://lupinevault.com/games/files/learn-to-fly-2/index.html"
+  },
+  {
+    "img": "line-rider.png",
+    "link": "https://lupinevault.com/games/files/line-rider/index.html"
+  },
+  {
+    "img": "linquest.png",
+    "link": "https://lupinevault.com/games/files/linquest/index.html"
+  },
+  {
+    "img": "linux-virtual-machine.png",
+    "link": "https://lupinevault.com/games/files/linux-virtual-machine/index.html"
+  },
+  {
+    "img": "little-alchemy.png",
+    "link": "https://lupinevault.com/games/files/little-alchemy/index.html"
+  },
+  {
+    "img": "little-guy.png",
+    "link": "https://lupinevault.com/games/files/little-guy/index.html"
+  },
+  {
+    "img": "madalin-stunt-cars-2.png",
+    "link": "https://lupinevault.com/games/files/madalin-stunt-cars-2/index.html"
+  },
+  {
+    "img": "madalin-stunt-cars-3.png",
+    "link": "https://lupinevault.com/games/files/madalin-stunt-cars-3/index.html"
+  },
+  {
+    "img": "make-it-meme.png",
+    "link": "https://lupinevault.com/games/files/make-it-meme/index.html"
+  },
+  {
+    "img": "mario.png",
+    "link": "https://lupinevault.com/games/files/mario/index.html"
+  },
+  {
+    "img": "marvin-spectrum.png",
+    "link": "https://lupinevault.com/games/files/marvin-spectrum/index.html"
+  },
+  {
+    "img": "matrix-rampage.png",
+    "link": "https://lupinevault.com/games/files/matrix-rampage/index.html"
+  },
+  {
+    "img": "meme-2048.png",
+    "link": "https://lupinevault.com/games/files/meme-2048/index.html"
+  },
+  {
+    "img": "mine-blocks.png",
+    "link": "https://lupinevault.com/games/files/mine-blocks/index.html"
+  },
+  {
+    "img": "minecraft-1.3.png",
+    "link": "https://lupinevault.com/games/files/minecraft-1.3/index.html"
+  },
+  {
+    "img": "minecraft-1.5.2.png",
+    "link": "https://lupinevault.com/games/files/minecraft-1.5.2/index.html"
+  },
+  {
+    "img": "minecraft-1.8.8-x.png",
+    "link": "https://lupinevault.com/games/files/minecraft-1.8.8-x/index.html"
+  },
+  {
+    "img": "minecraft-1.8.8.png",
+    "link": "https://lupinevault.com/games/files/minecraft-1.8.8/index.html"
+  },
+  {
+    "img": "minecraft-beta-0.30.png",
+    "link": "https://lupinevault.com/games/files/minecraft-beta-0.30/index.html"
+  },
+  {
+    "img": "minecraft-precision-client.png",
+    "link": "https://lupinevault.com/games/files/minecraft-precision-client/index.html"
+  },
+  {
+    "img": "minesweeper.png",
+    "link": "https://lupinevault.com/games/files/minesweeper/index.html"
+  },
+  {
+    "img": "mini-stilts.png",
+    "link": "https://lupinevault.com/games/files/mini-stilts/index.html"
+  },
+  {
+    "img": "miniputt.png",
+    "link": "https://lupinevault.com/games/files/miniputt/index.html"
+  },
+  {
+    "img": "missiles.png",
+    "link": "https://lupinevault.com/games/files/missiles/index.html"
+  },
+  {
+    "img": "montague-mayhem.png",
+    "link": "https://lupinevault.com/games/files/montague-mayhem/index.html"
+  },
+  {
+    "img": "moto-x3m-2.png",
+    "link": "https://lupinevault.com/games/files/moto-x3m-2/index.html"
+  },
+  {
+    "img": "moto-x3m-pool-party.png",
+    "link": "https://lupinevault.com/games/files/moto-x3m-pool-party/index.html"
+  },
+  {
+    "img": "moto-x3m-spooky.png",
+    "link": "https://lupinevault.com/games/files/moto-x3m-spooky/index.html"
+  },
+  {
+    "img": "moto-x3m-winter.png",
+    "link": "https://lupinevault.com/games/files/moto-x3m-winter/index.html"
+  },
+  {
+    "img": "mr-mine.png",
+    "link": "https://lupinevault.com/games/files/mr-mine/index.html"
+  },
+  {
+    "img": "my-friend-pedro.png",
+    "link": "https://lupinevault.com/games/files/my-friend-pedro/index.html"
+  },
+  {
+    "img": "n-gon.png",
+    "link": "https://lupinevault.com/games/files/n-gon/index.html"
+  },
+  {
+    "img": "nazi-zombies.png",
+    "link": "https://lupinevault.com/games/files/nazi-zombies/index.html"
+  },
+  {
+    "img": "ninja-vs-evil-corp.png",
+    "link": "https://lupinevault.com/games/files/ninja-vs-evil-corp/index.html"
+  },
+  {
+    "img": "ns-shaft.png",
+    "link": "https://lupinevault.com/games/files/ns-shaft/index.html"
+  },
+  {
+    "img": "offline-paradise.png",
+    "link": "https://lupinevault.com/games/files/offline-paradise/index.html"
+  },
+  {
+    "img": "om-nom-bounce.png",
+    "link": "https://lupinevault.com/games/files/om-nom-bounce/index.html"
+  },
+  {
+    "img": "one-night-at-scratch-cats.png",
+    "link": "https://lupinevault.com/games/files/one-night-at-scratch-cats/index.html"
+  },
+  {
+    "img": "one-screen-run.png",
+    "link": "https://lupinevault.com/games/files/one-screen-run/index.html"
+  },
+  {
+    "img": "one-screen-run-2.png",
+    "link": "https://lupinevault.com/games/files/one-screen-run-2/index.html"
+  },
+  {
+    "img": "ovo.png",
+    "link": "https://lupinevault.com/games/files/ovo/index.html"
+  },
+  {
+    "img": "packabunchas.png",
+    "link": "https://lupinevault.com/games/files/packabunchas/index.html"
+  },
+  {
+    "img": "pacman.png",
+    "link": "https://lupinevault.com/games/files/pacman/index.html"
+  },
+  {
+    "img": "pacman-fps.png",
+    "link": "https://lupinevault.com/games/files/pacman-fps/index.html"
+  },
+  {
+    "img": "pandemic-2.png",
+    "link": "https://lupinevault.com/games/files/pandemic-2/index.html"
+  },
+  {
+    "img": "papa-louie.png",
+    "link": "https://lupinevault.com/games/files/papa-louie/index.html"
+  },
+  {
+    "img": "papas-burgeria.png",
+    "link": "https://lupinevault.com/games/files/papas-burgeria/index.html"
+  },
+  {
+    "img": "papas-freezeria.png",
+    "link": "https://lupinevault.com/games/files/papas-freezeria/index.html"
+  },
+  {
+    "img": "papas-hot-doggeria.png",
+    "link": "https://lupinevault.com/games/files/papas-hot-doggeria/index.html"
+  },
+  {
+    "img": "papas-pancakeria.png",
+    "link": "https://lupinevault.com/games/files/papas-pancakeria/index.html"
+  },
+  {
+    "img": "papas-pizzeria.png",
+    "link": "https://lupinevault.com/games/files/papas-pizzeria/index.html"
+  },
+  {
+    "img": "papas-sushiria.png",
+    "link": "https://lupinevault.com/games/files/papas-sushiria/index.html"
+  },
+  {
+    "img": "papas-wingeria.png",
+    "link": "https://lupinevault.com/games/files/papas-wingeria/index.html"
+  },
+  {
+    "img": "paper-io-2.png",
+    "link": "https://lupinevault.com/games/files/paper-io-2/index.html"
+  },
+  {
+    "img": "papery-planes.png",
+    "link": "https://lupinevault.com/games/files/papery-planes/index.html"
+  },
+  {
+    "img": "particle-clicker.png",
+    "link": "https://lupinevault.com/games/files/particle-clicker/index.html"
+  },
+  {
+    "img": "pe-noire.png",
+    "link": "https://lupinevault.com/games/files/pe-noire/index.html"
+  },
+  {
+    "img": "picohot.png",
+    "link": "https://lupinevault.com/games/files/picohot/index.html"
+  },
+  {
+    "img": "picopong.png",
+    "link": "https://lupinevault.com/games/files/picopong/index.html"
+  },
+  {
+    "img": "pikwip.png",
+    "link": "https://lupinevault.com/games/files/pikwip/index.html"
+  },
+  {
+    "img": "pixel-cave.png",
+    "link": "https://lupinevault.com/games/files/pixel-cave/index.html"
+  },
+  {
+    "img": "plants-vs-zombies-2.png",
+    "link": "https://lupinevault.com/games/files/plants-vs-zombies-2/index.html"
+  },
+  {
+    "img": "polybranch.png",
+    "link": "https://lupinevault.com/games/files/polybranch/index.html"
+  },
+  {
+    "img": "poom.png",
+    "link": "https://lupinevault.com/games/files/poom/index.html"
+  },
+  {
+    "img": "popcat-classic.png",
+    "link": "https://lupinevault.com/games/files/popcat-classic/index.html"
+  },
+  {
+    "img": "portal-flash.png",
+    "link": "https://lupinevault.com/games/files/portal-flash/index.html"
+  },
+  {
+    "img": "powder-game.png",
+    "link": "https://lupinevault.com/games/files/powder-game/index.html"
+  },
+  {
+    "img": "protektor.png",
+    "link": "https://lupinevault.com/games/files/protektor/index.html"
+  },
+  {
+    "img": "push-the-square.png",
+    "link": "https://lupinevault.com/games/files/push-the-square/index.html"
+  },
+  {
+    "img": "push-your-luck.png",
+    "link": "https://lupinevault.com/games/files/push-your-luck/index.html"
+  },
+  {
+    "img": "pushback.png",
+    "link": "https://lupinevault.com/games/files/pushback/index.html"
+  },
+  {
+    "img": "puzzle-ball.png",
+    "link": "https://lupinevault.com/games/files/puzzle-ball/index.html"
+  },
+  {
+    "img": "q1k3.png",
+    "link": "https://lupinevault.com/games/files/q1k3/index.html"
+  },
+  {
+    "img": "racer.png",
+    "link": "https://lupinevault.com/games/files/racer/index.html"
+  },
+  {
+    "img": "radius-raid.png",
+    "link": "https://lupinevault.com/games/files/radius-raid/index.html"
+  },
+  {
+    "img": "retro-bowl.png",
+    "link": "https://lupinevault.com/games/files/retro-bowl/index.html"
+  },
+  {
+    "img": "retro-haunt.png",
+    "link": "https://lupinevault.com/games/files/retro-haunt/index.html"
+  },
+  {
+    "img": "rise-of-neon-square.png",
+    "link": "https://lupinevault.com/games/files/rise-of-neon-square/index.html"
+  },
+  {
+    "img": "roadblocks.png",
+    "link": "https://lupinevault.com/games/files/roadblocks/index.html"
+  },
+  {
+    "img": "rocking-sky-trip.png",
+    "link": "https://lupinevault.com/games/files/rocking-sky-trip/index.html"
+  },
+  {
+    "img": "rolling-forests.png",
+    "link": "https://lupinevault.com/games/files/rolling-forests/index.html"
+  },
+  {
+    "img": "rolly-vortex.png",
+    "link": "https://lupinevault.com/games/files/rolly-vortex/index.html"
+  },
+  {
+    "img": "rooftop-snipers.png",
+    "link": "https://lupinevault.com/games/files/rooftop-snipers/index.html"
+  },
+  {
+    "img": "run-3.png",
+    "link": "https://lupinevault.com/games/files/run-3/index.html"
+  },
+  {
+    "img": "sand-game.png",
+    "link": "https://lupinevault.com/games/files/sand-game/index.html"
+  },
+  {
+    "img": "sandboxels.png",
+    "link": "https://lupinevault.com/games/files/sandboxels/index.html"
+  },
+  {
+    "img": "sausage-flip.png",
+    "link": "https://lupinevault.com/games/files/sausage-flip/index.html"
+  },
+  {
+    "img": "scrambled-eggs.png",
+    "link": "https://lupinevault.com/games/files/scrambled-eggs/index.html"
+  },
+  {
+    "img": "scrap-metal-3.png",
+    "link": "https://lupinevault.com/games/files/scrap-metal-3/index.html"
+  },
+  {
+    "img": "senya-and-oscar-2.png",
+    "link": "https://lupinevault.com/games/files/senya-and-oscar-2/index.html"
+  },
+  {
+    "img": "shadoworld-adventure.png",
+    "link": "https://lupinevault.com/games/files/shadoworld-adventure/index.html"
+  },
+  {
+    "img": "shards.png",
+    "link": "https://lupinevault.com/games/files/shards/index.html"
+  },
+  {
+    "img": "shift-flash.png",
+    "link": "https://lupinevault.com/games/files/shift-flash/index.html"
+  },
+  {
+    "img": "short-life-2.png",
+    "link": "https://lupinevault.com/games/files/short-life-2/index.html"
+  },
+  {
+    "img": "short-ride.png",
+    "link": "https://lupinevault.com/games/files/short-ride/index.html"
+  },
+  {
+    "img": "shuttledeck.png",
+    "link": "https://lupinevault.com/games/files/shuttledeck/index.html"
+  },
+  {
+    "img": "skyblock.png",
+    "link": "https://lupinevault.com/games/files/skyblock/index.html"
+  },
+  {
+    "img": "sleeping-beauty.png",
+    "link": "https://lupinevault.com/games/files/sleeping-beauty/index.html"
+  },
+  {
+    "img": "slice-of-sasha.png",
+    "link": "https://lupinevault.com/games/files/slice-of-sasha/index.html"
+  },
+  {
+    "img": "smokin-barrels.png",
+    "link": "https://lupinevault.com/games/files/smokin-barrels/index.html"
+  },
+  {
+    "img": "snake.png",
+    "link": "https://lupinevault.com/games/files/snake/index.html"
+  },
+  {
+    "img": "snow-battle-io.png",
+    "link": "https://lupinevault.com/games/files/snow-battle-io/index.html"
+  },
+  {
+    "img": "soccer-random.png",
+    "link": "https://lupinevault.com/games/files/soccer-random/index.html"
+  },
+  {
+    "img": "soldier-legend.png",
+    "link": "https://lupinevault.com/games/files/soldier-legend/index.html"
+  },
+  {
+    "img": "solitaire.png",
+    "link": "https://lupinevault.com/games/files/solitaire/index.html"
+  },
+  {
+    "img": "sort-the-court.png",
+    "link": "https://lupinevault.com/games/files/sort-the-court/index.html"
+  },
+  {
+    "img": "soundboard.png",
+    "link": "https://lupinevault.com/games/files/soundboard/index.html"
+  },
+  {
+    "img": "space-company.png",
+    "link": "https://lupinevault.com/games/files/space-company/index.html"
+  },
+  {
+    "img": "space-garden.png",
+    "link": "https://lupinevault.com/games/files/space-garden/index.html"
+  },
+  {
+    "img": "space-huggers.png",
+    "link": "https://lupinevault.com/games/files/space-huggers/index.html"
+  },
+  {
+    "img": "spelunky.png",
+    "link": "https://lupinevault.com/games/files/spelunky/index.html"
+  },
+  {
+    "img": "squid-gun-fest.png",
+    "link": "https://lupinevault.com/games/files/squid-gun-fest/index.html"
+  },
+  {
+    "img": "stack.png",
+    "link": "https://lupinevault.com/games/files/stack/index.html"
+  },
+  {
+    "img": "stack-bump-3d.png",
+    "link": "https://lupinevault.com/games/files/stack-bump-3d/index.html"
+  },
+  {
+    "img": "station-141.png",
+    "link": "https://lupinevault.com/games/files/station-141/index.html"
+  },
+  {
+    "img": "stealing-the-diamond.png",
+    "link": "https://lupinevault.com/games/files/stealing-the-diamond/index.html"
+  },
+  {
+    "img": "stick-archers-battle.png",
+    "link": "https://lupinevault.com/games/files/stick-archers-battle/index.html"
+  },
+  {
+    "img": "stick-war.png",
+    "link": "https://lupinevault.com/games/files/stick-war/index.html"
+  },
+  {
+    "img": "stickman-boost.png",
+    "link": "https://lupinevault.com/games/files/stickman-boost/index.html"
+  },
+  {
+    "img": "stickman-dismount.png",
+    "link": "https://lupinevault.com/games/files/stickman-dismount/index.html"
+  },
+  {
+    "img": "stickman-epic-battle.png",
+    "link": "https://lupinevault.com/games/files/stickman-epic-battle/index.html"
+  },
+  {
+    "img": "stickman-golf.png",
+    "link": "https://lupinevault.com/games/files/stickman-golf/index.html"
+  },
+  {
+    "img": "stickman-hook.png",
+    "link": "https://lupinevault.com/games/files/stickman-hook/index.html"
+  },
+  {
+    "img": "stickman-zombies.png",
+    "link": "https://lupinevault.com/games/files/stickman-zombies/index.html"
+  },
+  {
+    "img": "storm-the-house-2.png",
+    "link": "https://lupinevault.com/games/files/storm-the-house-2/index.html"
+  },
+  {
+    "img": "subway-surfers-bali.png",
+    "link": "https://lupinevault.com/games/files/subway-surfers-bali/index.html"
+  },
+  {
+    "img": "super-mario-63.png",
+    "link": "https://lupinevault.com/games/files/super-mario-63/index.html"
+  },
+  {
+    "img": "super-mario-64.png",
+    "link": "https://lupinevault.com/games/files/super-mario-64/index.html"
+  },
+  {
+    "img": "super-mario-kart-snes.png",
+    "link": "https://lupinevault.com/games/files/super-mario-kart-snes/index.html"
+  },
+  {
+    "img": "super-mario-world-1990.png",
+    "link": "https://lupinevault.com/games/files/super-mario-world-1990/index.html"
+  },
+  {
+    "img": "super-meat-boy.png",
+    "link": "https://lupinevault.com/games/files/super-meat-boy/index.html"
+  },
+  {
+    "img": "super-puffer-fish-3d.png",
+    "link": "https://lupinevault.com/games/files/super-puffer-fish-3d/index.html"
+  },
+  {
+    "img": "super-smash-flash.png",
+    "link": "https://lupinevault.com/games/files/super-smash-flash/index.html"
+  },
+  {
+    "img": "superhero-io.png",
+    "link": "https://lupinevault.com/games/files/superhero-io/index.html"
+  },
+  {
+    "img": "superhot.png",
+    "link": "https://lupinevault.com/games/files/superhot/index.html"
+  },
+  {
+    "img": "swerve.png",
+    "link": "https://lupinevault.com/games/files/swerve/index.html"
+  },
+  {
+    "img": "synesthesia.png",
+    "link": "https://lupinevault.com/games/files/synesthesia/index.html"
+  },
+  {
+    "img": "tactical-assassin-2.png",
+    "link": "https://lupinevault.com/games/files/tactical-assassin-2/index.html"
+  },
+  {
+    "img": "tactical-weapon-pack-2.png",
+    "link": "https://lupinevault.com/games/files/tactical-weapon-pack-2/index.html"
+  },
+  {
+    "img": "tail-of-the-dragon.png",
+    "link": "https://lupinevault.com/games/files/tail-of-the-dragon/index.html"
+  },
+  {
+    "img": "tam-indian-truck-simulator-3d.png",
+    "link": "https://lupinevault.com/games/files/tam-indian-truck-simulator-3d/index.html"
+  },
+  {
+    "img": "tank-trouble-2.png",
+    "link": "https://lupinevault.com/games/files/tank-trouble-2/index.html"
+  },
+  {
+    "img": "tanuki-sunset.png",
+    "link": "https://lupinevault.com/games/files/tanuki-sunset/index.html"
+  },
+  {
+    "img": "temple-run-2.png",
+    "link": "https://lupinevault.com/games/files/temple-run-2/index.html"
+  },
+  {
+    "img": "territorial-io.png",
+    "link": "https://lupinevault.com/games/files/territorial-io/index.html"
+  },
+  {
+    "img": "tetris.png",
+    "link": "https://lupinevault.com/games/files/tetris/index.html"
+  },
+  {
+    "img": "thats-not-my-neighbor.png",
+    "link": "https://lupinevault.com/games/files/thats-not-my-neighbor/index.html"
+  },
+  {
+    "img": "the-battle.png",
+    "link": "https://lupinevault.com/games/files/the-battle/index.html"
+  },
+  {
+    "img": "the-final-earth.png",
+    "link": "https://lupinevault.com/games/files/the-final-earth/index.html"
+  },
+  {
+    "img": "the-final-earth-2.png",
+    "link": "https://lupinevault.com/games/files/the-final-earth-2/index.html"
+  },
+  {
+    "img": "the-heist.png",
+    "link": "https://lupinevault.com/games/files/the-heist/index.html"
+  },
+  {
+    "img": "the-little-giant.png",
+    "link": "https://lupinevault.com/games/files/the-little-giant/index.html"
+  },
+  {
+    "img": "the-maze-of-space-goblins.png",
+    "link": "https://lupinevault.com/games/files/the-maze-of-space-goblins/index.html"
+  },
+  {
+    "img": "there-is-no-game.png",
+    "link": "https://lupinevault.com/games/files/there-is-no-game/index.html"
+  },
+  {
+    "img": "this-is-the-only-level.png",
+    "link": "https://lupinevault.com/games/files/this-is-the-only-level/index.html"
+  },
+  {
+    "img": "level-devil.png",
+    "link": "https://lupinevault.com/games/files/level-devil/index.html"
+  },
+  {
+    "img": "time-shooter-3.png",
+    "link": "https://lupinevault.com/games/files/time-shooter-3/index.html"
+  },
+  {
+    "img": "tiny-fishing.png",
+    "link": "https://lupinevault.com/games/files/tiny-fishing/index.html"
+  },
+  {
+    "img": "tiny-fragments.png",
+    "link": "https://lupinevault.com/games/files/tiny-fragments/index.html"
+  },
+  {
+    "img": "tiny-islands.png",
+    "link": "https://lupinevault.com/games/files/tiny-islands/index.html"
+  },
+  {
+    "img": "top-speed-racing-3d.png",
+    "link": "https://lupinevault.com/games/files/top-speed-racing-3d/index.html"
+  },
+  {
+    "img": "topple-adventure.png",
+    "link": "https://lupinevault.com/games/files/topple-adventure/index.html"
+  },
+  {
+    "img": "toss-the-turtle.png",
+    "link": "https://lupinevault.com/games/files/toss-the-turtle/index.html"
+  },
+  {
+    "img": "tough-growth.png",
+    "link": "https://lupinevault.com/games/files/tough-growth/index.html"
+  },
+  {
+    "img": "tower-master.png",
+    "link": "https://lupinevault.com/games/files/tower-master/index.html"
+  },
+  {
+    "img": "townscaper.png",
+    "link": "https://lupinevault.com/games/files/townscaper/index.html"
+  },
+  {
+    "img": "treetop-royale.png",
+    "link": "https://lupinevault.com/games/files/treetop-royale/index.html"
+  },
+  {
+    "img": "trimps.png",
+    "link": "https://lupinevault.com/games/files/trimps/index.html"
+  },
+  {
+    "img": "tube-jumpers.png",
+    "link": "https://lupinevault.com/games/files/tube-jumpers/index.html"
+  },
+  {
+    "img": "tunnel-rush.png",
+    "link": "https://lupinevault.com/games/files/tunnel-rush/index.html"
+  },
+  {
+    "img": "tunnelz.png",
+    "link": "https://lupinevault.com/games/files/tunnelz/index.html"
+  },
+  {
+    "img": "twitch-tetris.png",
+    "link": "https://lupinevault.com/games/files/twitch-tetris/index.html"
+  },
+  {
+    "img": "typewriter.png",
+    "link": "https://lupinevault.com/games/files/typewriter/index.html"
+  },
+  {
+    "img": "underrun.png",
+    "link": "https://lupinevault.com/games/files/underrun/index.html"
+  },
+  {
+    "img": "unfold-2.png",
+    "link": "https://lupinevault.com/games/files/unfold-2/index.html"
+  },
+  {
+    "img": "up-left-out.png",
+    "link": "https://lupinevault.com/games/files/up-left-out/index.html"
+  },
+  {
+    "img": "veloce.png",
+    "link": "https://lupinevault.com/games/files/veloce/index.html"
+  },
+  {
+    "img": "very-normal-shooter.png",
+    "link": "https://lupinevault.com/games/files/very-normal-shooter/index.html"
+  },
+  {
+    "img": "volley-random.png",
+    "link": "https://lupinevault.com/games/files/volley-random/index.html"
+  },
+  {
+    "img": "waterworks.png",
+    "link": "https://lupinevault.com/games/files/waterworks/index.html"
+  },
+  {
+    "img": "we-become-what-we-behold.png",
+    "link": "https://lupinevault.com/games/files/we-become-what-we-behold/index.html"
+  },
+  {
+    "img": "webretro.png",
+    "link": "https://lupinevault.com/games/files/webretro/index.html"
+  },
+  {
+    "img": "winter-falling-price.png",
+    "link": "https://lupinevault.com/games/files/winter-falling-price/index.html"
+  },
+  {
+    "img": "wipo.png",
+    "link": "https://lupinevault.com/games/files/wipo/index.html"
+  },
+  {
+    "img": "wolfenstein-3d.png",
+    "link": "https://lupinevault.com/games/files/wolfenstein-3d/index.html"
+  },
+  {
+    "img": "wordle.png",
+    "link": "https://lupinevault.com/games/files/wordle/index.html"
+  },
+  {
+    "img": "worlds-hardest-game.png",
+    "link": "https://lupinevault.com/games/files/worlds-hardest-game/index.html"
+  },
+  {
+    "img": "worlds-hardest-game-2.png",
+    "link": "https://lupinevault.com/games/files/worlds-hardest-game-2/index.html"
+  },
+  {
+    "img": "x-trial-racing.png",
+    "link": "https://lupinevault.com/games/files/x-trial-racing/index.html"
+  },
+  {
+    "img": "xx142-b2exe.png",
+    "link": "https://lupinevault.com/games/files/xx142-b2exe/index.html"
+  },
+  {
+    "img": "yoshi-fabrication.png",
+    "link": "https://lupinevault.com/games/files/yoshi-fabrication/index.html"
+  },
+  {
+    "img": "you-are-bezos.png",
+    "link": "https://lupinevault.com/games/files/you-are-bezos/index.html"
+  },
+  {
+    "img": "zig-zag.png",
+    "link": "https://lupinevault.com/games/files/zig-zag/index.html"
+  },
+  {
+    "img": "zombocalypse.png",
+    "link": "https://lupinevault.com/games/files/zombocalypse/index.html"
+  },
+  {
+    "img": "zombs-royale.png",
+    "link": "https://lupinevault.com/games/files/zombs-royale/index.html"
+  },
+   {
       "img": "1v1s.png",
       "link": "https://selenite.cc/semag/1v1lol/index.html"
     },
@@ -137,7 +1645,7 @@
       },
       {
         "img": "buckshot.png",
-        "link": "https://frogiesarcade.win/compiled/buckshot-roulette/"
+        "link": "https://lupinevault.com/games/files/buckshot-roulette/index.html"
       },
       {
         "img": "osu.png",
@@ -202,5 +1710,9 @@
       {
         "img": "slope2.png",
         "link": "https://ixl.brunys.site/assets/games/slope2/"
+      },
+      {
+        "img": "smash-karts.png",
+        "link": "https://smashkarts.io/index.html"
       }
   ]
