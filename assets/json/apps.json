@@ -34,6 +34,10 @@
       {
         "img": "x.png",
         "link": "https://x.com"
+      },
+      {
+        "img": "google.png",
+        "link": "https://www.google.com/"
       }
   ]
   
