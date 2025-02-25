@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/web/sunnys/gym/',
-    bare: 'https://homework.swat.lat',
+    bare: 'https://idontcare.sunnythedogdidthis.com/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/web/uv/uv.handler.js',
